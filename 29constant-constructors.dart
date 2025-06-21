@@ -14,8 +14,4 @@ class Human {
 
   int get age => _age;
   String get getNameAndAge => '$name, $_age years old';
-
-  // void grewUp() {
-  //   this._age += 1;
-  // }
 }
