@@ -3,9 +3,9 @@ void main() {
   print(_getFirstCorrectCharacter(name));
 
   final alex = {
-    // 'name': 'Alex',
-    // 'email': 'alex@gmail.com',
-    // 'phone': 12345678999999,
+    'name': 'Alex',
+    'email': 'alex@gmail.com',
+    'phone': 12345678999999,
   };
 
   final visibleData =
